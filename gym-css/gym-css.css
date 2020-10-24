@@ -1,5 +1,5 @@
 body{
-	background-color: black;//#FF9800;
+	background-color: black;
 	margin: 0px;
 	padding: 0px;
 }
@@ -18,7 +18,7 @@ body{
 }
 .navbar-brand{
 	position: relative;
-	//top: -20px;
+	
 }
 .navbar-brand a:hover, .navbar-brand a:focus{
 	text-decoration: none;
@@ -28,19 +28,17 @@ body{
 	color: #FFC107;
 	text-shadow: 1px 1px 1px #fff;
 }
-#nav-list{
-	//margin-right: 20px;
-}
+
 #nav-list a{
 	text-align: center;
 	margin: 20px;
 }
 #nav-list a:hover{
-	//background:#fff;
+	
 	color: black;
 }
 .jumbotron{
-	box-shadow: 0 0 50px #616161; //#3F0C1F;
+	box-shadow: 0 0 50px #616161; 
 	border:2px solid #3F0C1F;
 	margin: 20px;
 }
@@ -110,13 +108,13 @@ h3{
 	}
 }
 #snip{
-	background-color: #FFF9C4;//#F0F4C3;//white;
+	background-color: #FFF9C4;
 	margin: 20px;
 	padding: 20px;
 	border-radius: 10px;	
 }
 .para1{
-	//margin: 25px;
+	
 	text-align: center;
 	font-style: italic;
 	font-size: 2em;
@@ -138,10 +136,9 @@ h3{
 	font-size: 1.2em;
 }
 .mySlides {
-	//border:2px solid #F57C00;
+	
 	box-shadow: 5px 5px 18px #616161;
-	/*width:500px;
-	height:333px;*/
+	
 }
 img {vertical-align: middle;}
 /* Slideshow container */
@@ -187,13 +184,13 @@ img {vertical-align: middle;}
   text-decoration: none;
 }
 iframe{
-	border:none;//2px solid #F57C00;
+	border:none;
 	box-shadow: 5px 5px 18px #616161;
 }
 .para2{
 	font-weight: bold;
 	font-size: 1.5em;
-	color: #FFC107;//#F44336;//#F57C00;
+	color: #FFC107;
 	text-shadow: 1px 1px 1px #fff;
 	font-style: italic;
 	text-align: center;
@@ -220,9 +217,7 @@ iframe{
 	border-radius: 10px;
 }
 .special2{
-	/*position: relative;
-	left: 1000px;
-	top: 50px;*/
+	
 	font-weight: bold;
 	font-size: 2em;
 	color: #F44336;//#F57C00;
@@ -231,9 +226,7 @@ iframe{
 	text-align: right;
 }
 #special3{
-	/*position: absolute;
-	left: 20px;
-	top: 30px;*/
+	
 	margin-right: 100px;
 	margin-top: 20px;
 }
@@ -245,16 +238,14 @@ iframe{
 	color: white;
 	text-align: center;
 	border:none;
-	//padding: 15px 20px;
+	
 	display: inline-block;
 	border-radius: 12px;
 	transition-duration: 0.4s; 
-	/*position: absolute;
-	left: 76%;
-	margin-top: 10px;*/
+	
 }
 .button:hover {
-	background-color: black;//#e7e7e7;
+	background-color: black;
 	color: white;
 }
 .button1{
@@ -342,29 +333,9 @@ b{
 }
 .form-check-inline{
 	color: white;
-	/*position: relative;
-	left: 280px;
-	margin: 10px;*/
+	
 }
 
 /* gym-login.html ends */
 
-/* Fading animation */
-/*.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 20s;
-}
 
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}*/
-//http://getwallpapers.com/collection/motivational-workout-wallpaper
-//https://www.gymventures.com/gym-equipment-names-and-pictures/    - for equipments
