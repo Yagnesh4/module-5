@@ -82,6 +82,12 @@ h3{
 	}
 }
 @media (max-width: 767px){
+	.jumbotron{
+		background-image: url("m-992.jpg");
+		background-repeat: none;
+		height: 400px;
+		background-size: 100% 100%;
+	}
 	.col-xs-12{
 		width: 100%;
 	}
@@ -154,7 +160,7 @@ img {vertical-align: middle;}
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
+  top: 60%;
   width: auto;
   padding: 16px;
   margin-top: -22px;
