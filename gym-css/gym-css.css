@@ -59,7 +59,7 @@ h3{
 		background-image: url("../gym-images/m-1300.jpg");
 		background-repeat: none;
 		height: 628px;
-		
+		background-size: 100% 100%;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px){
@@ -67,6 +67,7 @@ h3{
 		background-image: url("../gym-images/m.jpg");
 		background-repeat: none;
 		height: 628px;
+		background-size: 100% 100%;
 	}
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -74,6 +75,7 @@ h3{
 		background-image: url("../gym-images/m-992.jpg");
 		background-repeat: none;
 		height: 550px;
+		background-size: 100% 100%;
 	}
 	.equip-description{
 		margin-left: 20px;
@@ -81,7 +83,7 @@ h3{
 }
 @media (max-width: 767px){
 	.jumbotron{
-		background-image: url("m-992.jpg");
+		background-image: url("../gym-images/m-768.jpg");
 		background-repeat: none;
 		height: 400px;
 		background-size: 100% 100%;
